@@ -1,0 +1,14 @@
+wap to print average of five number
+
+
+<?php
+$a=23;
+$b=98;
+$c=11;
+$d=32;
+$e=10;
+
+$avg=($a+$b+$c+$d+$e)/5;
+echo $avg;
+
+?>
